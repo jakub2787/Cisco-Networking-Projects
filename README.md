@@ -8,8 +8,8 @@ The projects are designed to demonstrate practical knowledge of Cisco networking
 
 ## 📁 Projects
 
-01 – VLAN-Configuration
-02 – VPN-GRE-RIP
+1.  VLAN-Configuration
+2.  VPN-GRE-RIP
 
 ## 🛠️ Tools & Technologies
 - Cisco Packet Tracer
@@ -20,6 +20,9 @@ The projects are designed to demonstrate practical knowledge of Cisco networking
 - GRE Tunneling
 Repository Structure
 
+## 📁 Repository Structure
+
+```text
 Cisco-Networking-Projects/
 │
 ├── README.md
@@ -28,16 +31,16 @@ Cisco-Networking-Projects/
 │   ├── README.md
 │   ├── documentation/
 │   ├── screenshots/
-│   └── topology.png
+│   ├── topology.png
 │   └── vlan-configuration.pkt
 │
-├── 02-VPN-GRE-Tunnels/
-│   ├── README.md
-│   ├── documentation/
-│   ├── screenshots/
-│   └── topology.png
-│   └── vpn-rip-configuration.pkt
-│
+└── 02-VPN-GRE-Tunnels/
+    ├── README.md
+    ├── documentation/
+    ├── screenshots/
+    ├── topology.png
+    └── vpn-rip-configuration.pkt
+```
 
 ## 📄 Project Documentation
 
