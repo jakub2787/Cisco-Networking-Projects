@@ -37,13 +37,13 @@ RIP version 2 is used as a dynamic routing protocol to exchange routing informat
 ├── topology.png
 │
 ├── documentation/
-│   ├── IP-Addressing.xlsx
-│   └── IP-Addressing.pdf
+│   ├── ip-addressing.xlsx
+│   └── ip-addresing.pdf
 │
 └── screenshots/
-    ├── Routing-Table.png
-    ├── Tunnel-Status.png
-    └── Connectivity-Tests.png
+    ├── routing-table.png
+    ├── tunnel-status.png
+    └── connectivity-tests.png
 ```
 
 ## 📖 Project Documentation
@@ -53,7 +53,6 @@ RIP version 2 is used as a dynamic routing protocol to exchange routing informat
 The IP addressing plan is available in two formats:
 -Excel (.xlsx) – editable IP addressing documentation.
 -PDF (.pdf) – formatted version for convenient viewing.
-
 
 ### 📸 Configuration Screenshots
 The screenshots document the main configuration stages and verification results:
