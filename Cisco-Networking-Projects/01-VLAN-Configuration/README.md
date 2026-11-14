@@ -30,7 +30,6 @@ The main objective is to logically segment a local network into separate broadca
 
 ```text
 ├── 01-VLAN-Configuration/
-│   ├── README.md
 │   ├── documentation/
 │   │   ├── ip-addressing.xlsx
 │   │   └── ip-addressing.pdf
@@ -38,6 +37,7 @@ The main objective is to logically segment a local network into separate broadca
 │   │   ├── vlan-configuration.png
 │   │   ├── trunk-configuration.png
 │   │   └── connectivity-tests.png
+│   ├── README.md
 │   ├── topology.png
 │   └── vlan-configuration.pkt
 ```
@@ -52,6 +52,6 @@ The IP addressing plan is available in two formats:
 
 ### 📸 Configuration Screenshots
 The screenshots document the main configuration stages and verification results:
-- Routing tables showing learned routes.
-- GRE tunnel interface status.
-- Connectivity tests between network devices.
+- VLAN configuration and port assignments.
+- Trunk port configuration.
+- Network connectivity tests.
