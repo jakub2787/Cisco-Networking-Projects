@@ -30,12 +30,7 @@ RIP version 2 is used as a dynamic routing protocol to exchange routing informat
 ## 📁 Project Structure
 
 ```text
-02-VPN-GRE-RIP/
-│
-├── README.md
-├── vpn-rip-configuration.pkt
-├── topology.png
-│
+├── 02-VPN-GRE-RIP/
 ├── documentation/
 │   ├── ip-addressing.xlsx
 │   └── ip-addresing.pdf
@@ -44,6 +39,9 @@ RIP version 2 is used as a dynamic routing protocol to exchange routing informat
     ├── routing-table.png
     ├── tunnel-status.png
     └── connectivity-tests.png
+├── README.md
+├── topology.png
+├── vpn-rip-configuration.pkt
 ```
 
 ## 📖 Project Documentation
