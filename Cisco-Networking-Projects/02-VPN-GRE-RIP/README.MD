@@ -10,22 +10,22 @@ RIP version 2 is used as a dynamic routing protocol to exchange routing informat
 
 ## 🛠️ Tools & Technologies
 
--Cisco Packet Tracer
--Cisco IOS
--GRE (Generic Routing Encapsulation)
--VPN Tunneling Concepts
--RIP v2 (Routing Information Protocol)
--Dynamic Routing
--IPv4 Addressing
--Point-to-Point Tunnels
+- Cisco Packet Tracer
+- Cisco IOS
+- GRE (Generic Routing Encapsulation)
+- VPN Tunneling Concepts
+- RIP v2 (Routing Information Protocol)
+- Dynamic Routing
+- IPv4 Addressing
+- Point-to-Point Tunnels
 
 ## ⚙️ Implemented Configuration
--GRE tunnel interface configuration
--Tunnel source and destination configuration
--Tunnel IP addressing
--RIP version 2 configuration
--Dynamic routing between remote networks
--Advertisement of network addresses
+- GRE tunnel interface configuration
+- Tunnel source and destination configuration
+- Tunnel IP addressing
+- RIP version 2 configuration
+- Dynamic routing between remote networks
+- Advertisement of network addresses
 
 ## 📁 Project Structure
 
